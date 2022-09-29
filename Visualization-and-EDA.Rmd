@@ -1,0 +1,12 @@
+---
+title: "Visualizationa & EDA"
+author: "Soungbin Yim"
+date: "2022-09-29"
+output: github_document
+---
+
+```{r setup}
+library(tidyverse)
+library(ggridges)
+```
+
